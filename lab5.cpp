@@ -12,7 +12,7 @@ int main() {
     // main 1: change 12
     discriminant = b * b - 4 * a * c;
 	
-    // main 2
+    // main 2: change 15
     if (discriminant > 0) {
         root1 = (-b + sqrt(discriminant)) / (2 * a);
         root2 = (-b - sqrt(discriminant)) / (2 * a);
